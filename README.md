@@ -22,7 +22,7 @@ This is my profile where I share my learning journey from small experiments to c
 - 💭I enjoy thinking beyond the obvious.
 - 🥛Not a coffee or tea person
 - 🎬Into anime-solo leveling is a favorite
-- 📦I like bulding things that are simple, useful, and easy to understand
+- 📦I like building things that are simple, useful, and easy to understand
 
 ---
 
