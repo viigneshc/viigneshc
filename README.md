@@ -23,3 +23,8 @@ This is my profile where I share my learning journey from small experiments to c
 - 🥛Not a coffee or tea person
 - 🎬Into anime-solo leveling is a favorite
 - 📦I like bulding things that are simple, useful, and easy to understand
+
+---
+
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/VickVicky?theme=light&font=Ruluko&colors=Dark&ext=heatmap)
