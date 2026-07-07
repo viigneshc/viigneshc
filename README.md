@@ -1,16 +1,19 @@
-## Hi there 👋
+##Hey there👋
 
-<!--
-**viigneshc/viigneshc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vignesh C, B.Tech Information Technology student with a passion for software development and problem solving.
 
-Here are some ideas to get you started:
+Most of my time goes into Java, Python, SQL, and Data Structures & Algorithms. I'm also exploring full-stack web development and AI while creating projects that improve my skills and challenge my thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my profile where I share my learning journey from small experiments to complete applications. Every project is built to learn something new, improve my coding practices, and grow as a developer.
+---
+##Tech Stack
+- Java
+- Python
+- SQL & MySQL
+- HTML | CSS | JavaScript
+---
+##A Bit About Me
+- 💭I enjoy thinking beyond the obvious.
+- 🥛Not a coffee or tea person
+- 🎬Into anime-solo leveling is a favorite
+- 📦I like bulding things that are simple, useful, and easy to understand
