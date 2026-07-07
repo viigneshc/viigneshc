@@ -2,6 +2,8 @@
 
 > I'm Vignesh C, B.Tech Information Technology student with a passion for software development and problem solving.
 
+One commit closer to becoming the developer I aspire to be.
+
 Most of my time goes into Java, Python, SQL, and Data Structures & Algorithms.I'm also exploring full-stack web development and AI while creating projects that improve my skills and challenge my thinking.
 
 This is my profile where I share my learning journey from small experiments to complete applications. Every project is built to learn something new, improve my coding practices, and grow as a developer.
